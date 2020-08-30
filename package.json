@@ -1,0 +1,17 @@
+{
+  "name": "newprovidence",
+  "version": "1.0.0",
+  "description": "layout and pure javascript experience",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "layout",
+    "javascript",
+    "scss",
+    "html"
+  ],
+  "author": "Anton Synieokyi <anton.synieokyi@yandex.com>",
+  "license": "ISC"
+}
